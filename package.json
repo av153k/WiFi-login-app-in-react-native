@@ -25,5 +25,8 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "resolutions": {
+    "metro-config": "0.56.4"
   }
 }
